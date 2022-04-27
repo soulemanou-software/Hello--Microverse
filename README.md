@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+**Set up a "Hello Microverse" project**
 
-> Description the project.
-
+>This is a project on how to Set up a "Hello Microverse" project
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: html & css
+- Frameworks: none
+- Technologies used: Browsers , html ,css , git
 
 ## Live Demo (if available)
 
@@ -38,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
+## Authors: Soulemanou kunchiefuh babanou
 
 👤 **Author1**
 
